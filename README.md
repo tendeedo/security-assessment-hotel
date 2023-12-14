@@ -1,24 +1,24 @@
 <h1>Security Assessment</h1>
 
-<h3>Timeline</h3>
+<h2>Timeline</h2>
 DESCRIPTION.
 <br>
 
-<h3>About the client/h3>
+<h2>About the client</h2>
 DESCRIPTION.
 <br>
 
-<h3>Overview</h3>
+<h2>Overview</h2>
 DESCRIPTION.
 <br>
 
-<h3>My Role</h3>
+<h2>My Role</h2>
 DESCRIPTION.
 <br>
 
-<h3>Relevant Tools</h3>
+<h2>Relevant Tools</h2>
 DESCRIPTION.
 <br>
 
-<h3>Deliverables</h3>
+<h2>Deliverables</h2>
 DESCRIPTION.<br>
