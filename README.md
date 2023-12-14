@@ -1,4 +1,4 @@
-<h1>Security Assessment</h1>
+<h1>Security Assessment: Hotel</h1>
 
 <h2>Timeline</h2>
 DESCRIPTION.
